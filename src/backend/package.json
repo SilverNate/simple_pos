@@ -1,0 +1,19 @@
+{
+  "name": "nodepos",
+  "version": "1.0.0",
+  "description": "backend for simple post project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "POS"
+  ],
+  "author": "Andean Arippa",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
